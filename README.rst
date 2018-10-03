@@ -1,3 +1,5 @@
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/n-elie/splinart/master
+
 splinart is a package used for a tutorial which explains how to do the Python packaging using
 
 - `PyPi <https://pypi.python.org/pypi>`_
