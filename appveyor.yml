@@ -19,4 +19,4 @@ build: off
 
 test_script:
     - python setup.py install
-- pytest --cov splinart tests/
+    - pytest --cov splinart tests/
